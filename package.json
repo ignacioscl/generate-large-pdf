@@ -1,0 +1,17 @@
+{
+  "name": "pdf-generate",
+  "version": "1.0.0",
+  "description": "Generador de PDFs de tamaño específico",
+  "main": "generate-pdf.js",
+  "scripts": {
+    "start": "node generate-pdf.js"
+  },
+  "dependencies": {
+    "pdfkit": "^0.15.0"
+  },
+  "keywords": ["pdf", "generator"],
+  "author": "",
+  "license": "ISC"
+}
+
+
